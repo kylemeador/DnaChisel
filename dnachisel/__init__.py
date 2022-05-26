@@ -68,8 +68,6 @@ from .biotools import (
     sequences_differences_segments,
 )
 
-from .utils import random_compatible_dna_sequence
-
 
 from .version import __version__
 
